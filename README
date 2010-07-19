@@ -1,0 +1,5 @@
+Very simple module for doing logistic regression.
+
+Based on:
+- http://blog.smellthedata.com/2009/06/python-logistic-regression-with-l2.html
+- http://people.csail.mit.edu/jrennie/writing/lr.pdf
