@@ -8,5 +8,5 @@ setup(
     license = 'Apache Software License (ASF)',
     packages = find_packages(),
     zip_safe = True,
-    install_requires = ['scipy','pylab']
+#    install_requires = ['scipy','matplotlib']
 )
